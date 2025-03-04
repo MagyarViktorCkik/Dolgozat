@@ -1,4 +1,8 @@
 1.valtozas
 2.valtozas
+<<<<<<< HEAD
 3.valtozas
 4.valtozas
+=======
+3.valtozas
+>>>>>>> 7153aa422d1ebbf944cf72ddffbe5f59e59041da
